@@ -1,0 +1,5 @@
+# Regional-terrain-based-VS30-prediction-models-for-China
+Regional terrain-based VS30 prediction models for China（including CD Region, CM Region and GG Region）
+Based on decision tree theory, considering  three surface morphometric features of topographic slope, surface texture, and local convexity automatically identifies 16 terrain categories from 30”DEM data (http://www.webgis.com/srtm30.html) in study area.  Based on the borehole data extracted from  the reports of probabilistic seismic hazard analyses for major engineering projects, the VS30 prediction model of the study area is established through the spatial relationship between the borehole data and the terrain categories. This model can provide site parameters for the establishment of regional ground motion model and earthquake disaster scenario prediction and loss modelling. 
+Citation：Zhang, Y. T., Y. F. Ren, R. Z. Wen, H. W. Wang and K. Ji (2023). Regional terrain-based VS30 prediction models for China. Earth, Planets and Space, https://earth-planets-space.springeropen.com/articles/10.1186/s40623-023-01826-3.
+
